@@ -1,7 +1,7 @@
+![](https://storage.googleapis.com/incind/sheHack-LogoToEIdor.png)
+
 #SHEHACKS 
 This is the official Idea/project submission repository for SheHacks Hackathon organized by GIET, Odissa and supported by IncubateIND.
-
-![](https://storage.googleapis.com/incind/sheHack-LogoToEIdor.png)
 
 ## Submission Procedure
 Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission. 
